@@ -1,0 +1,73 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Aug 2018 06:38:13 at https://thepuppetshow.co.za +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thepuppetshow.co.za -O1 "C:\Development\ILS\ThePuppetShow" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:38:39	Error: 	"Method Not Allowed" (405) at link https://thepuppetshow.co.za/xmlrpc.php (from https://thepuppetshow.co.za/)
+06:38:39	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/)
+06:39:56	Warning: 	Moved Permanently for https://thepuppetshow.co.za/shows/
+06:39:56	Warning: 	File has moved from https://thepuppetshow.co.za/shows/ to https://thepuppetshow.co.za/home/shows/
+06:39:56	Warning: 	Found for https://thepuppetshow.co.za/?share=twitter
+06:39:56	Warning: 	File has moved from https://thepuppetshow.co.za/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Home&url=https%3A%2F%2Fthepuppetshow.co.za%2F
+06:39:56	Warning: 	Found for https://thepuppetshow.co.za/?share=facebook
+06:39:56	Warning: 	File has moved from https://thepuppetshow.co.za/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2F&t=Home
+06:39:56	Warning: 	Found for https://thepuppetshow.co.za/?share=google-plus-1
+06:39:56	Warning: 	File has moved from https://thepuppetshow.co.za/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2F
+06:40:01	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/contact-us/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/contact-us/)
+06:40:01	Warning: 	Found for https://thepuppetshow.co.za/contact-us/?share=twitter
+06:40:01	Warning: 	File has moved from https://thepuppetshow.co.za/contact-us/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Contact%20Us&url=https%3A%2F%2Fthepuppetshow.co.za%2Fcontact-us%2F
+06:40:01	Warning: 	Found for https://thepuppetshow.co.za/contact-us/?share=facebook
+06:40:01	Warning: 	File has moved from https://thepuppetshow.co.za/contact-us/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fcontact-us%2F&t=Contact%20Us
+06:40:01	Warning: 	Found for https://thepuppetshow.co.za/contact-us/?share=google-plus-1
+06:40:01	Warning: 	File has moved from https://thepuppetshow.co.za/contact-us/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fcontact-us%2F
+06:40:01	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/home/shows/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/home/shows/)
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/home/shows/?share=twitter
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/home/shows/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Current%20Shows&url=https%3A%2F%2Fthepuppetshow.co.za%2Fhome%2Fshows%2F
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/home/shows/?share=facebook
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/home/shows/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fhome%2Fshows%2F&t=Current%20Shows
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/home/shows/?share=google-plus-1
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/home/shows/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fhome%2Fshows%2F
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/gallery/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/gallery/)
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/gallery/?share=twitter
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/gallery/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Gallery&url=https%3A%2F%2Fthepuppetshow.co.za%2Fgallery%2F
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/gallery/?share=facebook
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/gallery/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fgallery%2F&t=Gallery
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/gallery/?share=google-plus-1
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/gallery/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fgallery%2F
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from 0.gravatar.com/js/gprofiles.js?ver=201832y)
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/g.gif (from stats.wp.com/w.js?56)
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/c.gif (from stats.wp.com/w.js?56)
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/mess-monsters/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/mess-monsters/)
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/mess-monsters/?share=twitter
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/mess-monsters/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=MESS%20MONSTERS%21&url=https%3A%2F%2Fthepuppetshow.co.za%2Fmess-monsters%2F
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/mess-monsters/?share=facebook
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/mess-monsters/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fmess-monsters%2F&t=MESS%20MONSTERS%21
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/mess-monsters/?share=google-plus-1
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/mess-monsters/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fmess-monsters%2F
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/the-circus-is-here/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/the-circus-is-here/)
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/the-circus-is-here/?share=twitter
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/the-circus-is-here/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=THE%20CIRCUS%20IS%20HERE%21&url=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-circus-is-here%2F
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/the-circus-is-here/?share=facebook
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/the-circus-is-here/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-circus-is-here%2F&t=THE%20CIRCUS%20IS%20HERE%21
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/the-circus-is-here/?share=google-plus-1
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/the-circus-is-here/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-circus-is-here%2F
+06:40:43	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/sharing-a-shell/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/sharing-a-shell/)
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/sharing-a-shell/?share=twitter
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/sharing-a-shell/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=SHARING%20A%20SHELL%21&url=https%3A%2F%2Fthepuppetshow.co.za%2Fsharing-a-shell%2F
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/sharing-a-shell/?share=facebook
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/sharing-a-shell/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fsharing-a-shell%2F&t=SHARING%20A%20SHELL%21
+06:40:43	Warning: 	Found for https://thepuppetshow.co.za/sharing-a-shell/?share=google-plus-1
+06:40:43	Warning: 	File has moved from https://thepuppetshow.co.za/sharing-a-shell/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fsharing-a-shell%2F
+06:40:44	Error: 	"Not Found" (404) at link https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/wordpress_test_cookie=test; path=/ (from https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/)
+06:40:44	Warning: 	Found for https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=twitter
+06:40:44	Warning: 	File has moved from https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=THE%20GREEN%20WITCH%20AND%20THE%20GOLDEN%20APPLE&url=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-green-witch-and-the-golden-apple%2F
+06:40:44	Warning: 	Found for https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=facebook
+06:40:44	Warning: 	File has moved from https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-green-witch-and-the-golden-apple%2F&t=THE%20GREEN%20WITCH%20AND%20THE%20GOLDEN%20APPLE
+06:40:44	Warning: 	Found for https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=google-plus-1
+06:40:44	Warning: 	File has moved from https://thepuppetshow.co.za/the-green-witch-and-the-golden-apple/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fthepuppetshow.co.za%2Fthe-green-witch-and-the-golden-apple%2F
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 31 seconds : 169 links scanned, 130 files written (28804315 bytes overall) [28441038 bytes received at 188351 bytes/sec], 886610 bytes transferred using HTTP compression in 42 files, ratio 27%, 2.9 requests per connection
+(12 errors, 50 warnings, 0 messages)
